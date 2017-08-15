@@ -1,2 +1,3 @@
 # hello-world
-First project to understand github
+
+Hi I am usman, I've stared github just now.
